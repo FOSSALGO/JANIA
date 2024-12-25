@@ -1,5 +1,4 @@
-===============================================================================
-# JANIA - Java Framework for Nature Inspired Algorithms to Solve Multi Depot Multi Traveling Salesman Problem
+JANIA - Java Framework for Nature Inspired Algorithms to Solve Multi Depot Multi Traveling Salesman Problem
 ===============================================================================
 
 
