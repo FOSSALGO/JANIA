@@ -29,4 +29,4 @@ Support
 ===============================================================================
 
 For all questions and comments, contact 
-Domagoj Jakobovic <domagoj.jakobovic@fer.hr>
+Sugiarto Cokrowibowo <fossagithub@gmail.com>
