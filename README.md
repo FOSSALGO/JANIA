@@ -3,6 +3,35 @@ JANIA: Java Framework for Nature Inspired Algorithms to Solve Multi Depot Multi 
 
 #### JANIA is written in Java
 
+## Purpose
+
+---
+
+## Requirements
+
+Java $\geq$ 18
+
+## Usage
+
+---
+
+## Project tree
+
+---
+
+## Getting started with an example
+
+---
+
+## Support
+
+Authors: Sugiarto Cokrowibowo, Amirul Asnan Cirua, Nuralamsah Zulkarnaim, Sulfayanti, Nahya Nur and Wawan Firgiawan
+
+Contact: fossagithub@gmail.com
+
+
+
+
 Info
 ===============================================================================
 
