@@ -1,6 +1,10 @@
 # JANIA
 JANIA: Java Framework for Nature Inspired Algorithms to Solve Multi Depot Multi Traveling Salesman Problem
 
+# Info
+JANIA is a Java framework intended for application of any type of evolutionary 
+computation. More info is available at: http://------------------
+
 #### JANIA is written in Java
 
 ## Purpose
@@ -18,27 +22,6 @@ Java $\geq$ 18
 ## Project tree
 
 ---
-
-## Getting started with an example
-
----
-
-## Support
-
-Authors: Sugiarto Cokrowibowo, Amirul Asnan Cirua, Nuralamsah Zulkarnaim, Sulfayanti, Nahya Nur and Wawan Firgiawan
-
-Contact: fossagithub@gmail.com
-
-
-
-
-Info
-===============================================================================
-
-JANIA is a Java framework intended for application of any type of evolutionary 
-computation. More info is available at: http://------------------
-
-
 Documentation
 ===============================================================================
 
@@ -54,8 +37,21 @@ The provided 'INSTALL' file deals only with generic installation issues with
 GNU automake tools.
 
 
-Support
-===============================================================================
+## Getting started with an example
 
-For all questions and comments, contact 
-Sugiarto Cokrowibowo <fossagithub@gmail.com>
+---
+
+## Support
+
+Authors: Sugiarto Cokrowibowo, Amirul Asnan Cirua, Nuralamsah Zulkarnaim, Sulfayanti, Nahya Nur and Wawan Firgiawan
+For all questions and comments, contact Sugiarto Cokrowibowo <fossagithub@gmail.com>
+
+
+
+
+
+
+
+
+
+
