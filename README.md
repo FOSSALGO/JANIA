@@ -43,7 +43,7 @@ GNU automake tools.
 
 ## Support
 
-Authors: Sugiarto Cokrowibowo, Amirul Asnan Cirua, Nuralamsah Zulkarnaim, Sulfayanti, Nahya Nur and Wawan Firgiawan
+Authors: Sugiarto Cokrowibowo, Amirul Asnan Cirua, Nuralamsah Zulkarnaim, Sulfayanti, Nahya Nur and Wawan Firgiawan.
 
 For all questions and comments, contact Sugiarto Cokrowibowo <fossagithub@gmail.com>
 
