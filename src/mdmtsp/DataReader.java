@@ -68,19 +68,6 @@ public class DataReader {
                     }
                     //calculate distance;
                     distanceMatrix = distancesInGEO(nodeCoordinate);
-                    //calculate distance;
-//                    for (int j = 0; j < dimension; j++) {
-//                        double x1 = nodeCoordinate[j][0];
-//                        double y1 = nodeCoordinate[j][1];
-//                        for (int k = j; k < dimension; k++) {
-//                            double x2 = nodeCoordinate[k][0];
-//                            double y2 = nodeCoordinate[k][1];
-//                            //double distance = Math.sqrt(Math.pow((x1-x2), 2)+Math.pow((y1-y2), 2));
-//
-//                            distanceMatrix[j][k] = distance;
-//                            distanceMatrix[k][j] = distance;
-//                        }
-//                    }
                 }
 
             }
