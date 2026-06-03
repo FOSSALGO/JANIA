@@ -1,4 +1,5 @@
-1. asfaf
-URL: 
-2. fdafa
-URL: 
+1. Paper: Autonomous Swarm Drones Exploration using Hybrid Frontier-Tracing and Ray-Casting Frontier Detection
+URL: https://iopscience.iop.org/article/10.1088/1742-6596/3186/1/012014
+
+2. ---
+URL: ---
